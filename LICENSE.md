@@ -1,4 +1,4 @@
-# 
+# Elite Process Explorer plugins for Mac OS | Lightweight Process Explorer plugins for PC Windows. Featuring power management and disk defragmentation — optimized for maximum performance on every platform.
 
 
 
